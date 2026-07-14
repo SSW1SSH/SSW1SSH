@@ -19,6 +19,7 @@ I'm a final-year Computer Science student at the University of KwaZulu-Natal (We
 📫 **How to reach me:** Siddharsomaroo0829@gmail.com
 
 Additional Info:
+
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=SSW1SSH&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SSW1SSH&theme=tokyonight)](https://git.io/streak-stats)
