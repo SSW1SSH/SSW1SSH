@@ -16,6 +16,7 @@ I'm a final-year Computer Science student at the University of KwaZulu-Natal. I 
 
 ### 🚀 Featured Projects
 *   **Code Comment Classifier:** A multi-label classifier built for code analysis.
+*   **Comp 315 Project:** A multi-threaded inventory management system
 
 📫 **How to reach me:** Siddharsomaroo0829@gmail.com
 
