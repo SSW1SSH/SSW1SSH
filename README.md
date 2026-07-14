@@ -5,8 +5,7 @@ I'm a final-year Computer Science student at the University of KwaZulu-Natal (We
 ### 🛠️ What I'm working with:
 *   **Core Focus:** Natural Language Processing (NLP) & Operating Systems
 *   **Languages:**
-* 
-*   <div align="left">
+  <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,git" alt="My Skills" />
   </a>
