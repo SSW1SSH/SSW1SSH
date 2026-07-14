@@ -22,8 +22,8 @@ I'm a final-year Computer Science student at the University of KwaZulu-Natal. I 
 
 Additional Info:
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=SSW1SSH&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SSW1SSH&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=gruvbox)
+
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=SSW1SSH&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SSW1SSH&theme=gruvbox)](https://git.io/streak-stats)
