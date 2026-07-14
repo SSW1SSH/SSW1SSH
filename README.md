@@ -1,4 +1,5 @@
-## Hi there👋, I am Siddhar Somaroo and welcome to my profile, feel free to have a look around.
+## Hi there👋
+I am Siddhar Somaroo and welcome to my profile, feel free to have a look around.
 
 I'm a final-year Computer Science student at the University of KwaZulu-Natal (Westville Campus). I love diving deep into how software works, from the high-level linguistics of text processing to the low-level scheduling of operating systems.
 
