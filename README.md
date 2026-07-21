@@ -18,8 +18,6 @@ I'm a final-year Computer Science student at the University of KwaZulu-Natal. I 
 *   **Code Comment Classifier:** A multi-label classifier built for code analysis.
 *   **Comp 315 Project:** A multi-threaded inventory management system
 
-📫 **How to reach me:** Siddharsomaroo0829@gmail.com
-
 Additional Info:
 
 [![GitHub Language Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SSW1SSH&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=gruvbox)
