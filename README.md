@@ -8,7 +8,7 @@ I'm a final-year Computer Science student at the University of KwaZulu-Natal. I 
 *   **Languages:**
   <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,git" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,css,html,git,linux,bash"flutter&perline=4 alt="My Skills" />
   </a>
 </div>
 
